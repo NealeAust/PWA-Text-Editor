@@ -47,10 +47,11 @@ Visit the deployed site (see link below). Enter text and click off the window to
 
 ## Deployed Application and Screenshots
 
-Link to Heroku: 
+Link to Heroku: https://nc-pwa-text-editor.herokuapp.com/
 
 ### Screenshots
 
+![image](https://user-images.githubusercontent.com/115671306/232265817-f9e0ad76-4bc0-4fe0-b668-5fa78a90f606.png)
 
 
 
